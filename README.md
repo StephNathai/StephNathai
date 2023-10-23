@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :hibiscus: About Me
 
-I'm a full-stack engineer currently working at American Express. I love working on responsive websites, improving accessibility, and creating A/B tests. I have been an engineer for about 6 years and I've recently started dappling with open-source, which I'm absolutely loving. I look forward to progressing within my field as I continue to learn and grow.
+I'm a full-stack engineer currently working at American Express. I love working on responsive websites, improving accessibility, and creating A/B tests. I have been an engineer for about 8 years and I've recently started dappling with open-source, which I'm absolutely loving. I look forward to progressing within my field as I continue to learn and grow.
 
 
 ## :hammer_and_wrench: Skills
